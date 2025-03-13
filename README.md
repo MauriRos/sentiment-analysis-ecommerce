@@ -44,6 +44,19 @@ Datos anonimizados de más de **100K pedidos**, con información sobre:
 5️⃣ **Evaluación de impacto económico**  
 
 ---
+📦 sentiment-analysis-ecommerce
+│-- 📄 sentiment-analysis.ipynb   # Notebook con el análisis completo
+│-- 📂 data/                      # Contiene los datasets utilizados
+│   ├── reviews.csv               # Opiniones de clientes (Kaggle + sintéticos)
+│   ├── orders.csv                # Datos de los pedidos
+│-- 📂 images/                     # 📸 Carpeta con imágenes para el README
+│   ├── sentiment_distribution.png
+│   ├── wordcloud_positive.png
+│   ├── wordcloud_negative.png
+│   ├── model_performance.png
+│-- 📄 README.md                   # Documentación del proyecto
+
+---
 
 ## 📚 **Librerías Utilizadas**
 - 🐍 **Python**  
@@ -74,10 +87,9 @@ Datos anonimizados de más de **100K pedidos**, con información sobre:
 ✔️ **Las reseñas positivas aumentan la probabilidad de recompra en un 25%.**  
 ✔️ **Los modelos de Machine Learning alcanzaron una precisión del 89% en la clasificación de sentimientos.**  
 
-📊 **Ejemplo de visualización:**  
-![Sentimientos](https://www.analyticsvidhya.com/wp-content/uploads/2021/06/sentiment_analysis.png)  
 
 ---
+
 
 ## 🚀 **Cómo Ejecutarlo**
 1️⃣ **Descarga el dataset** desde Kaggle o usa los archivos en la carpeta `data/`.  
