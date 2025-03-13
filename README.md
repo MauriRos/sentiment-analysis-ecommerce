@@ -44,19 +44,6 @@ Datos anonimizados de más de **100K pedidos**, con información sobre:
 5️⃣ **Evaluación de impacto económico**  
 
 ---
-📦 sentiment-analysis-ecommerce
-│-- 📄 sentiment-analysis.ipynb   # Notebook con el análisis completo
-│-- 📂 data/                      # Contiene los datasets utilizados
-│   ├── reviews.csv               # Opiniones de clientes (Kaggle + sintéticos)
-│   ├── orders.csv                # Datos de los pedidos
-│-- 📂 images/                     # 📸 Carpeta con imágenes para el README
-│   ├── sentiment_distribution.png
-│   ├── wordcloud_positive.png
-│   ├── wordcloud_negative.png
-│   ├── model_performance.png
-│-- 📄 README.md                   # Documentación del proyecto
-
----
 
 ## 📚 **Librerías Utilizadas**
 - 🐍 **Python**  
