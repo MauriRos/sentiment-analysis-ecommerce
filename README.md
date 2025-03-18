@@ -13,7 +13,7 @@ Datos anonimizados de más de **100K pedidos**, con información sobre:
 - 📝 Reseñas de clientes con sentimiento asociado  
 
 📌 **Fuente:** [Brazilian E-commerce Public Dataset - Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
-📌 **Nota:** Se han generado algunos **datos sintéticos** para enriquecer el análisis.  
+
 
 ---
 
@@ -62,10 +62,7 @@ Datos anonimizados de más de **100K pedidos**, con información sobre:
 | 1a2b3c4d5 | abc123   | 5            | "Entrega rápida e produto excelente!" | Positivo |
 | 2b3c4d5e6 | def456   | 2            | "Demorou muito para chegar..."         | Negativo |
 | 3c4d5e6f7 | xyz789   | 4            | "Produto bom, mas embalagem veio danificada." | Neutro |
-
-🔍 **Insights iniciales:**  
-✔️ Las calificaciones más bajas (1-2 estrellas) tienen comentarios más extensos.  
-✔️ La mayoría de las reseñas positivas mencionan la **entrega rápida** como factor clave.  
+  
 
 ---
 
@@ -83,8 +80,6 @@ Datos anonimizados de más de **100K pedidos**, con información sobre:
 2️⃣ **Abre la notebook** en Google Colab o Jupyter Notebook.  
 3️⃣ **Ejecuta todas las celdas** para ver los resultados.  
 
-📌 **Abrir en Google Colab:**  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MauriRos/sentiment-analysis-ecommerce/blob/main/sentiment-analysis.ipynb)  
 
 ---
 
